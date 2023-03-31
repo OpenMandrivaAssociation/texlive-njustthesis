@@ -1,6 +1,6 @@
 Name:		texlive-njustthesis
 Version:	62451
-Release:	1
+Release:	2
 Summary:	Thesis template for the Nanjing University of Science and Technology
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/njustthesis
